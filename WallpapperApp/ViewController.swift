@@ -25,7 +25,6 @@ class ViewController: NSViewController {
         }
     }
 
-
 }
 
 extension ViewController: DestinationViewDelegate {
